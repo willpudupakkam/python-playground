@@ -1,1 +1,1 @@
-This repo is dedicated to all my creations in python that I don't consider "project" size.
+This repo is meant for anything python (that isn't too big)!
