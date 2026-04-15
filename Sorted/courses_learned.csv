@@ -1,0 +1,19 @@
+course,offered,prerequisites,corequisites
+PHYS 359,FW,"[""CHEM 254"", ""ECE 403"", ""ME 250"", ""PHYS 358"", ""CHEM 356"", ""PHYS 233"", ""PHYS 234"", ""CS 114"", ""CS 116"", ""CS 136"", ""CS 146"", ""PHYS 236""]","[""AMATH 373""]"
+PHYS 434,F,"[""AMATH 373"", ""PHYS 334"", ""AMATH 351"", ""AMATH 353"", ""PHYS 364""]",[]
+PHYS 442,F,"[""PHYS 342"", ""AMATH 351"", ""AMATH 353"", ""PHYS 364""]",[]
+PHYS 444,W,"[""PHYS 363"", ""AMATH 373"", ""PHYS 334"", ""AMATH 332"", ""AMATH 351"", ""AMATH 353"", ""PHYS 364"", ""PHYS 365""]",[]
+AMATH 331,FW,"[""MATH 237"", ""MATH 247""]",[]
+AMATH 332,WS,"[""MATH 237"", ""MATH 247""]",[]
+AMATH 333,F,"[""AMATH 231"", ""MATH 227"", ""PMATH 365"", ""MATH 114"", ""MATH 136"", ""MATH 146""]",[]
+AMATH 353,WS,"[""AMATH 231"", ""AMATH 250"", ""AMATH 251"", ""ECE 205"", ""MATH 211"", ""MATH 218"", ""MATH 228""]",[]
+AMATH 373,W,"[""AMATH 231"", ""AMATH 271"", ""PHYS 263""]",[]
+AMATH 445,W,"[""AMATH 250"", ""AMATH 251"", ""AMATH 350"", ""ECE 205"", ""MATH 211"", ""MATH 218"", ""MATH 228""]",[]
+AMATH 473,F,"[""AMATH 231"", ""PMATH 343"", ""AMATH 373"", ""PHYS 334""]",[]
+AMATH 475,W,"[""AMATH 231"", ""MATH 227"", ""AMATH 271"", ""PHYS 263""]",[]
+CS 230,WS,"[""CS 116"", ""CS 136"", ""CS 138"", ""CS 146"", ""CS 114"", ""CS 115"", ""CS 135"", ""CS 145""]",[]
+CS 370,FWS,"[""MATH 106"", ""MATH 114"", ""MATH 115"", ""MATH 136"", ""MATH 146"", ""MATH 118"", ""MATH 119"", ""MATH 128"", ""MATH 138"", ""MATH 148"", ""CS 231"", ""CS 234"", ""CS 241"", ""CS 241E"", ""CS 246"", ""CS 246E""]",[]
+CS 467,W,"[""MATH 235"", ""MATH 245""]",[]
+CS 475,S,"[""AMATH 242"", ""CS 370"", ""CS 371""]",[]
+CS 479,FW,"[""STAT 230"", ""STAT 240"", ""STAT 206""]","[""AMATH 242"", ""CS 335"", ""CS 370"", ""CS 371""]"
+PHYS 334,W,"[""AMATH 250"", ""AMATH 251"", ""MATH 228"", ""CHEM 356"", ""PHYS 234"", ""MATH 227"", ""MATH 237"", ""MATH 247""]",[]
